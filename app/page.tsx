@@ -60,8 +60,7 @@ export default function Home() {
                     NeoDB
                   </h1>
                   <div className="max-w-[600px] text-muted-foreground md:text-base">
-                    <p>Reimagining columnar databases from the ground up.</p>
-                    <p>(in blazing-fast Rust)</p>
+                    <p>intelligent data - the better way to query your data.</p>
                   </div>
                 </div>
                 {/* <div className="flex flex-col gap-2 min-[400px]:flex-row"> */}
